@@ -3,7 +3,7 @@
 import { useEffect, useState } from "react";
 import { applyTheme, readTheme, type Theme } from "@/lib/portfolio/theme";
 
-export function ThemeToggle() {
+export function ThemeToggle({ showLabel }: { showLabel?: boolean }) {
   const [theme, setTheme] = useState<Theme>("dark");
 
   useEffect(() => {
@@ -40,7 +40,7 @@ export function ThemeToggle() {
           <path d="M16.4 13.2A6.4 6.4 0 0 1 10.8 4.4 7.2 7.2 0 1 0 19.6 13.2a6.3 6.3 0 0 1-3.2 0Z" />
         </svg>
       )}
-      <span className="hidden sm:inline">{isLight ? "Light" : "Dark"}</span>
+      <span className={showLabel ? "" : "hidden sm:inline"}>{isLight ? "Light" : "Dark"}</span>
     </button>
   );
 }

@@ -17,7 +17,7 @@ export const projects: ProjectItem[] = [
     subtitle: "JAVA desktop GUI project",
     fullDescription: "Project FEDM JAVA GUI",
     tags: ["JAVA"],
-    url: "https://github.com",
+    url: "https://github.com/jrazec/fedm",
   },
   {
     slug: "dph06a",
@@ -26,7 +26,7 @@ export const projects: ProjectItem[] = [
     subtitle: "Jupyter notebook project",
     fullDescription: "DPH06A",
     tags: ["IPYNB"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/DPH06A-Ambal",
   },
   {
     slug: "ecotrack-admin",
@@ -35,7 +35,7 @@ export const projects: ProjectItem[] = [
     subtitle: "Admin system for EcoTrack",
     fullDescription: "EcoTrack Admin",
     tags: ["C#", "ASP.NET", "SQL"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/EcoTrack_Admin_Final",
   },
   {
     slug: "fcc-survey-form",
@@ -44,7 +44,7 @@ export const projects: ProjectItem[] = [
     subtitle: "HTML and CSS survey form",
     fullDescription: "Free code camp survey form activity",
     tags: ["HTML", "CSS"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/survey-form-ex",
   },
   {
     slug: "csharp-gui-calculator",
@@ -53,7 +53,7 @@ export const projects: ProjectItem[] = [
     subtitle: "Desktop calculator in C#",
     fullDescription: "C# GUI Calculator",
     tags: ["C#"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/Csharp-Calculator-GUI",
   },
   {
     slug: "csharp-logical-calculator",
@@ -62,7 +62,7 @@ export const projects: ProjectItem[] = [
     subtitle: "Terminal calculator in C#",
     fullDescription: "C# Logical Calculator Terminal",
     tags: ["C#"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/Csharp-Calculator-logical",
   },
   {
     slug: "es-project",
@@ -71,7 +71,7 @@ export const projects: ProjectItem[] = [
     subtitle: "Web project",
     fullDescription: "ES project",
     tags: ["HTML", "CSS", "JS"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/ES-Website",
   },
   {
     slug: "system-violation-recorder",
@@ -80,7 +80,7 @@ export const projects: ProjectItem[] = [
     subtitle: "JAVA application",
     fullDescription: "System Violation Recorder",
     tags: ["JAVA"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/OOP-java-system-violation-recorder",
   },
   {
     slug: "studio-ponkan",
@@ -89,7 +89,7 @@ export const projects: ProjectItem[] = [
     subtitle: "PHP and SQL Server project",
     fullDescription: "Studio Ponkan",
     tags: ["PHP", "SQL Server"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/ADBMSFINAL-App",
   },
   {
     slug: "eventtria",
@@ -98,7 +98,7 @@ export const projects: ProjectItem[] = [
     subtitle: "Next.js event platform",
     fullDescription: "EventTria",
     tags: ["Next.js", "ShadcnUI", "Supabase"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/EventTria",
   },
   {
     slug: "quazar-quiz",
@@ -107,7 +107,7 @@ export const projects: ProjectItem[] = [
     subtitle: "Flutter quiz app",
     fullDescription: "Quazar Quiz",
     tags: ["Flutter"],
-    url: "https://github.com",
+    url: "https://quazarcloud.online/download/appcon.html",
   },
   {
     slug: "quazar-cloud",
@@ -125,7 +125,7 @@ export const projects: ProjectItem[] = [
     subtitle: "C#, ASP.NET, and SQL Server project",
     fullDescription: "EcoTrack",
     tags: ["C#", "ASP.NET", "SQL Server"],
-    url: "https://github.com",
+    url: "https://github.com/Ambal-Ced/ecos",
   },
   {
     slug: "more-coming-soon",

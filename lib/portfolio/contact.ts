@@ -36,7 +36,7 @@ export const contactItems: ContactItem[] = [
   {
     id: "mobile",
     label: "Mobile",
-    href: "tel:+639391962494",
+    href: "tel:09391962494",
     value: "+63 9391962494",
   },
   {

@@ -11,16 +11,16 @@ export const certificates: CertificateItem[] = [
   {
     slug: "bitcon",
     src: "/certi/bitcon.webp",
-    title: "bitcon.png",
-    subtitle: "bitcon.png",
-    fullDescription: "bitcon.png",
+    title: "Batangas Information Technology Conference",
+    subtitle: "Bitcon Certificate of Participation",
+    fullDescription: "Batangas Information Technology Conference Discusses the ways we can use Ai on technology and business analysis, emnpowering integration, innovation, and security.",
   },
   {
     slug: "data-analytics-fundamentals",
     src: "/certi/certificate.Data_Analytics_Fundamentals_Justine_Ambal.webp",
-    title: "certificate.Data_Analytics_Fundamentals_Justine_Ambal.png",
-    subtitle: "certificate.Data_Analytics_Fundamentals_Justine_Ambal.png",
-    fullDescription: "certificate.Data_Analytics_Fundamentals_Justine_Ambal.png",
+    title: "Data Analytics Fundamentals",
+    subtitle: "Data Analytics Fundamentals Certificate of Completion",
+    fullDescription: "A certificate on completing a course on Data Analytics Fundamentals using multiple tools and technologies.",
   },
   {
     slug: "cisco-cybersecurity",
