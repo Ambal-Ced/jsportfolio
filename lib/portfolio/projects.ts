@@ -11,6 +11,34 @@ export type ProjectItem = {
 /** Edit `title`, `subtitle`, `fullDescription`, `tags`, and `url`. Keep `slug` and `src`. */
 export const projects: ProjectItem[] = [
   {
+  {
+    slug: "quazar-cloud",
+    src: "/proj/quazarcloud.webp",
+    title: "Quazar Cloud",
+    subtitle: "HTML, CSS, and JavaScript project",
+    fullDescription: "Quazar Cloud",
+    tags: ["HTML", "CSS", "JavaScript"],
+    url: "https://www.quazarcloud.online/index.html",
+  },
+  {
+    slug: "Libsys",
+    src: "/proj/github.webp",
+    title: "Libsys",
+    subtitle: "Tauri and JavaScript project",
+    fullDescription: "Software Application uses by BSU Lipa Library Services",
+    tags: ["Tauri", "JavaScript"],
+    url: "https://github.com/Ambal-Ced/QuazarCloudz_linsys.git",
+  },
+  {
+    slug: "Libsys",
+    src: "/proj/github.webp",
+    title: "Libsys",
+    subtitle: "Tauri and JavaScript project",
+    fullDescription: "Software Application uses by BSU Lipa Library Services",
+    tags: ["HTML", "CSS", "JavaScript"],
+    url: "https://github.com/Ambal-Ced/OJT-timer.git",
+  },
+  {
     slug: "fedm-java-gui",
     src: "/proj/github.webp",
     title: "Project FEDM JAVA GUI",
@@ -108,15 +136,6 @@ export const projects: ProjectItem[] = [
     fullDescription: "Quazar Quiz",
     tags: ["Flutter"],
     url: "https://quazarcloud.online/download/appcon.html",
-  },
-  {
-    slug: "quazar-cloud",
-    src: "/proj/quazarcloud.webp",
-    title: "Quazar Cloud",
-    subtitle: "HTML, CSS, and JavaScript project",
-    fullDescription: "Quazar Cloud",
-    tags: ["HTML", "CSS", "JavaScript"],
-    url: "https://www.quazarcloud.online/index.html",
   },
   {
     slug: "ecotrack",
