@@ -11,7 +11,6 @@ export type ProjectItem = {
 /** Edit `title`, `subtitle`, `fullDescription`, `tags`, and `url`. Keep `slug` and `src`. */
 export const projects: ProjectItem[] = [
   {
-  {
     slug: "quazar-cloud",
     src: "/proj/quazarcloud.webp",
     title: "Quazar Cloud",
@@ -30,13 +29,22 @@ export const projects: ProjectItem[] = [
     url: "https://github.com/Ambal-Ced/QuazarCloudz_linsys.git",
   },
   {
-    slug: "Libsys",
+    slug: "Ojt-Timer",
     src: "/proj/github.webp",
-    title: "Libsys",
-    subtitle: "Tauri and JavaScript project",
+    title: "OJT Timer",
+    subtitle: "HTML, CSS, JavaScript and Python project",
     fullDescription: "Software Application uses by BSU Lipa Library Services",
-    tags: ["HTML", "CSS", "JavaScript"],
+    tags: ["HTML", "CSS", "JavaScript", "Python"],
     url: "https://github.com/Ambal-Ced/OJT-timer.git",
+  },
+  {
+    slug: "LibRecord",
+    src: "/proj/github.webp",
+    title: "LibRecord",
+    subtitle: "C-Sharp project",
+    fullDescription: "Software Application uses by BSU Lipa Library Services",
+    tags: ["C#", "ASP.NET", "SQL"],
+    url: "https://github.com/Ambal-Ced/librecord.git",
   },
   {
     slug: "fedm-java-gui",
